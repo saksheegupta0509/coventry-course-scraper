@@ -115,8 +115,8 @@ Each record follows this structure:
 ```
 coventry_scraper_project/
 
-├── coventry_scraper.py
-├── output.json
+├── coventry_scraper_.py
+├── output_.json
 └── README.md
 ```
 
